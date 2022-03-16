@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmmanuelHere
 - 👀 I’m interested in Web Dev, Shopify, and Cowboys football.
-- 🌱 I’m currently learning Shopify Theme Development.
+- 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on any basic HTML/CSS/JS projects.
 - 📫 How to reach me: hello@justinhere.dev
 
