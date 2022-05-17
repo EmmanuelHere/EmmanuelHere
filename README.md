@@ -1,4 +1,4 @@
-Hi 👋 My name is Justin Emmanuel Heredia
+Hi 👋 My name is Justin Heredia
 ========================================
 
 Software Engineer
