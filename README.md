@@ -1,7 +1,7 @@
 Hi 👋 My name is Justin Heredia
 ========================================
 
-Software Engineer
+Full Stack Software Engineer
 -----------------
 
 *   🌍  I am based in Central Florida, USA.
