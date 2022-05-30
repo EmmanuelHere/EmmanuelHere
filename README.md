@@ -4,10 +4,10 @@ Hi 👋 My name is Justin Heredia
 Software Engineer
 -----------------
 
-*   🌍  I am based in Central Florida, USA.
+*   🌍  I'm based in Central Florida, USA.
 *   🖥️  See my portfolio at [justinhere.dev](http://www.justinhere.dev/)
 *   ✉️  You can contact me at [emmanuelhere@yahoo.com](mailto:emmanuelhere@yahoo.com)
-*   🤝  I am open to collaborating on Open Source Projects!
+*   🤝  I'm open to collaborating on Open Source Projects!
 
 <a href="https://www.twitter.com/JustHereditary" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/JustHereditary?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
